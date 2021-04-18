@@ -1,6 +1,6 @@
 # Description
 
-The aim is to perform style transfer task on text. Here we use the yelp review dataset which can be found in data folder. The dataset consits of negative and positive reviews.
+The aim is to perform style transfer task on text. Here we use the yelp review dataset which can be found in data folder. The dataset consits of negative and positive reviews. We aim to transfer the style of a review from positive to negative and vice versa
 # Installation
 
 `pip3 install -r requirements.txt`
